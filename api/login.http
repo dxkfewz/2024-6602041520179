@@ -1,0 +1,7 @@
+POST http://localhost:9090/api/auth/local/
+Content-Type: application/json
+
+{
+    "identifier" : "dxkfewzxc",
+    "password": "dxkfewz1212312121"
+}

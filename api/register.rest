@@ -2,7 +2,7 @@ POST http://localhost:9090/api/auth/local/register
 Content-Type: application/json
 
 {
-    "username" : "dxkfewzxc",
-    "email" : "dxkfewz@gmail.com",
+    "username" : "dxkfewzxczsc",
+    "email" : "dxkfewzxsc@gmail.com",
     "password" : "dxkfewz1212312121"
 }
